@@ -1,4 +1,3 @@
-public class LivingRoom {
-    int square;
+public class LivingRoom extends Room{
     int beds;
 }
